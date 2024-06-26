@@ -11,8 +11,6 @@ This project implements a Deep Q-Network (DQN) to play the Atari game Breakout u
 - [Agent](#agent)
 - [Model](#dueling-network-architecture)
 - [Environment](#openai-gym-environment)
-- [Testing](#testing)
-- [License](#license)
 
 ## Installation
 
@@ -128,15 +126,3 @@ By using this environment, the agent can interact with the game, receive rewards
 For more info, refer to the Documentation:
 
 - [OpenAI Gym Documentation](https://www.gymlibrary.dev/environments/atari/breakout/)
-
-## Testing
-
-To test the trained model, use the script test.py. It loads a specified model and runs it in the game environment to evaluate its performance.
-
-    py test.py
-
-The specific model file to be tested can be changed in the test.py file.
-
-## Licence
-
-This project is licensed under the MIT License. See the LICENSE file for details.
