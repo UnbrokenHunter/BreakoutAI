@@ -125,6 +125,10 @@ environment = DQNBreakout(device=device)
 
 By using this environment, the agent can interact with the game, receive rewards, and learn to play Breakout through reinforcement learning algorithms.
 
+For more info, refer to the Documentation:
+
+- [OpenAI Gym Documentation](https://www.gymlibrary.dev/environments/atari/breakout/)
+
 ## Testing
 
 To test the trained model, use the script test.py. It loads a specified model and runs it in the game environment to evaluate its performance.
