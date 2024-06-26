@@ -70,6 +70,8 @@ These components work together to enable the agent to learn effective policies f
 
 This project incorporates a dueling network architecture for deep reinforcement learning, as described in the paper "Dueling Network Architectures for Deep Reinforcement Learning" by Ziyu Wang et al. The key idea behind this architecture is to separate the representation of state values and state-dependent action advantages.
 
+![Model](img/DQN.png?raw=true "Model")
+
 ### Key Features
 
 1. **Two-Stream Architecture**: The network is split into two streams, one for the value function and one for the advantage function, sharing a common convolutional feature learning module.
