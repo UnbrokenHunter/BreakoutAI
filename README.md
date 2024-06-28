@@ -2,7 +2,11 @@
 
 This project implements a Deep Q-Network (DQN) to play the Atari game Breakout using PyTorch. The implementation includes an agent, model, environment wrapper, and utilities for training and evaluation.
 
-![Breakout](img/breakout.gif?raw=true "Breakout")
+## Video Demo
+[![Watch the video](img/breakout.gif?raw=true)](https://www.youtube.com/watch?v=gjtGtdsUus0)
+
+Click on the image or the hyperlink here: 
+https://www.youtube.com/watch?v=gjtGtdsUus0
 
 ## Table of Contents
 
